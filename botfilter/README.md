@@ -213,4 +213,4 @@ Puedes contribuir frases spam al array `BOT_PHRASES` en `content.js`. Acepta Pul
 
 ## 📄 Licencia
 
-MIT © 2025 BotFilter Team — Libre para uso personal y comercial.
+MIT © 2025 tweegio — Libre para uso personal y comercial.
